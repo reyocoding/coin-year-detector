@@ -28,6 +28,9 @@ A simple **CNN using TensorFlow & Keras**, but my first attempt failed hard—**
 - 🔄 Try **Transfer Learning (ResNet-50)**  
 - 🔍 Fine-tune preprocessing & augmentations  
 - 🚀 Share dataset & code for others to use!  
+## 📂 Download Dataset  
+You can download the dataset from **Google Drive**:  
+🔗 [Click here to download](https://drive.google.com/drive/folders/19L55dXjF10Y5bbWJr7lOWsVC7aHImf1D?usp=drive_link)  
 
 I’m documenting my progress here—feel free to check it out and drop any tips! 😊
 
